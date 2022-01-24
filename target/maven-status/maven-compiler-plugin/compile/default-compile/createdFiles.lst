@@ -1,0 +1,8 @@
+Decorator\RestaurantPizza.class
+Decorator\cremePizza.class
+Decorator\Pizza.class
+Decorator\TomatePizza.class
+Decorator\SimplePizza.class
+Decorator\AjoutFruit.class
+Decorator\AjoutPiment.class
+Decorator\AbstractDecorateur.class
